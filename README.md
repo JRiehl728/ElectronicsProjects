@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Electronics Projects Portfolio
 
 You can use the [editor on GitHub](https://github.com/JRiehl728/ElectronicsProjects/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
