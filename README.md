@@ -2,24 +2,28 @@
 
 This page is dedicated to sharing the various electronics projects i have designed and built over my years of experimenting.
 
-### Introduction
+# My First Circuitry #
+
+The first circuit i built was a basic Darlington Array based touch switch. This switch was operated by touching two metal contacts at the same time, thus turning on a light or other load.
 
 
 
 
 
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+
+
+
+
+
+
+
+
+
+
 
 ![image](https://user-images.githubusercontent.com/52514038/67626714-40aabe00-f804-11e9-8c04-7e01b7ea8ee3.jpg)
 
