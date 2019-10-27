@@ -2,12 +2,12 @@
 
 This page is dedicated to sharing the various electronics projects i have designed and built over my years of experimenting.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Introduction
 
 
-Syntax highlighted code block
+
+
+
 
 # Header 1
 ## Header 2
