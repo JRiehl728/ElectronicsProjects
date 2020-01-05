@@ -6,7 +6,7 @@ This page is dedicated to sharing the various electronics projects i have design
 
 The first circuit i built was a basic Darlington Array based touch switch. This switch was operated by touching two metal contacts at the same time, thus turning on a light or other load. This project was a great intro to the basics of electronics as it taught me the workings of a very important circuit in electronics all with simple physical components.
 
-![image](https://user-images.githubusercontent.com/52514038/71786329-2852de80-2fbf-11ea-83c6-b5cd14f464f4.jpg)
+![image](https://user-images.githubusercontent.com/52514038/71786386-bfb83180-2fbf-11ea-8a0d-cec32016b419.jpg)
 
 
 ## Up-Cycled 3D Printer(Unfinished)
