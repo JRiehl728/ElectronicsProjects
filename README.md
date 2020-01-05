@@ -41,6 +41,7 @@ Luckily there was a button that my dad never used on the board so the procedure 
 
 I cleaned the solder pads with isopropyl alcohol and prepped them for soldering with a light dab of solder paste. Then from there I swapped the SMD switches and resoldered them into place on the board.
 
-img(buttons soldered)
+![image](https://user-images.githubusercontent.com/52514038/71786040-fa1fcf80-2fbb-11ea-879a-b4e08f1562db.jpg)
+![image](https://user-images.githubusercontent.com/52514038/71786041-fa1fcf80-2fbb-11ea-8270-df7bfe0d07ae.jpg)
 
 I then reinstalled the board into the stove and it turned on no problem. A relatively quick fix to save nearly $200. 
