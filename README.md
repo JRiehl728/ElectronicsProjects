@@ -39,7 +39,7 @@ Luckily there was a button that my dad never used on the board so the procedure 
 
 ![image](https://user-images.githubusercontent.com/52514038/71785963-aeb8f180-2fba-11ea-8d34-17ca73b1cfa4.jpg)
 
-From there I swapped the switches and resoldered them into place on the board.
+I cleaned the solder pads with isopropyl alcohol and prepped them for soldering with a light dab of solder paste. Then from there I swapped the SMD switches and resoldered them into place on the board.
 
 img(buttons soldered)
 
