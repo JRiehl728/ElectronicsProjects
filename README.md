@@ -31,6 +31,7 @@ My parents have been using a pellet stove to heat their home for quite sometime 
 ![image](https://user-images.githubusercontent.com/52514038/71785991-461e4480-2fbb-11ea-80ef-3061ef8bfe5e.jpg)
 
 My Dad had priced out a new board from a local dealer and when he heard the nearly $200 price tag for the glorified slab of fiberglass, he came to me to fix it. 
+
 ![image](https://user-images.githubusercontent.com/52514038/71785910-06a32880-2fba-11ea-8eeb-2fabcc9ef642.jpg)
 
 Luckily there was a button that my dad never used on the board so the procedure was relatively simple. I desoldered both of the SMD momentary switches, the broken on and off switch and the one that had never been used.
