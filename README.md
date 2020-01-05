@@ -8,7 +8,6 @@ The first circuit i built was a basic Darlington Array based touch switch. This 
 
 ![image](https://user-images.githubusercontent.com/52514038/70194604-d8c77d00-16b7-11ea-80fb-6f31bead0a23.jpg)
 
-*PlaceHolder*
 
 ## Up-Cycled 3D Printer(Unfinished)
 
