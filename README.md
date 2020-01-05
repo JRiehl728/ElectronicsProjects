@@ -14,7 +14,7 @@ The first circuit i built was a basic Darlington Array based touch switch. This 
 
 I have torn apart many PCs throughout my time salvaging and experimenting with electronics and I ended up with a plethora of discarded CD/ROM drives. I began wondering what I could do with these drives other than just ripping out the lasers and throwing the rest in a pile. I started to research some options and the most common use I came upon was using the stepper motor driven laser carriages as the axis for a mini 3D printer.
 
-![image](https://user-images.githubusercontent.com/52514038/70195076-6fe10480-16b9-11ea-97b3-a86d13a28826.jpg)
+![image](https://user-images.githubusercontent.com/52514038/71785816-1706d380-2fb9-11ea-9bad-8cadb76c9f82.jpg)
 
 I started out by measuring the CD drive motor carriages and designing frame pieces in a CAD program.
 
