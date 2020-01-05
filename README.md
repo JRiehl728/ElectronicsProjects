@@ -37,7 +37,7 @@ My Dad had priced out a new board from a local dealer and when he heard the near
 
 Luckily there was a button that my dad never used on the board so the procedure was relatively simple. I desoldered both of the SMD momentary switches, the broken one for power and the one that had never been used.
 
-Img(buttons removed)
+![image](https://user-images.githubusercontent.com/52514038/71785963-aeb8f180-2fba-11ea-8d34-17ca73b1cfa4.jpg)
 
 From there I swapped the switches and resoldered them into place on the board.
 
