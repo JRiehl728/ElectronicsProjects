@@ -29,7 +29,7 @@ Img(Bed attached, frame assembled, Etc.)
 
 My parents have been using a pellet stove to heat their home for quite sometime now and after hundreds if not thousands of times being switched on and off, the buttons on the control panel started to work less frequently.
 
-Img(Pellet stove)
+![image](https://user-images.githubusercontent.com/52514038/71785991-461e4480-2fbb-11ea-80ef-3061ef8bfe5e.jpg)
 
 My Dad had priced out a new board from a local dealer and when he heard the nearly $200 price tag for the glorified slab of fiberglass, he came to me to fix it. 
 
