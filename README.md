@@ -17,12 +17,12 @@ I have torn apart many PCs throughout my time salvaging and experimenting with e
 
 I started out by measuring the CD drive motor carriages and designing frame pieces in a CAD program.
 
-Img(CAD design)
+![image](https://user-images.githubusercontent.com/52514038/72108381-50587f80-32e8-11ea-94e7-87f1abe46ae5.jpg)
+![image](https://user-images.githubusercontent.com/52514038/72108383-50587f80-32e8-11ea-8e2e-546cc4384ca8.jpg)
 
 I then attached the carriages and assembled the frame parts. I fabricated the bed from a small piece of MDF that I covered in aluminum foil tape to give a smooth impervious surface to print the plastic on.
 
-Img(Bed attached, frame assembled, Etc.)
-
+![image](https://user-images.githubusercontent.com/52514038/72108517-af1df900-32e8-11ea-86f2-d57ade5aa5ee.jpg)
 
 
 ## Pellet Stove Daughter Board Repair
