@@ -2,6 +2,11 @@
 
 This page is dedicated to sharing the various electronics projects i have designed and built over my years of experimenting.
 
+Contact Me:
+
+Email- jriehl728@gmail.com
+Phone- 1 (250) 230-7938
+
 ## My First Circuitry - Darlington Touch Switch
 
 The first circuit i built was a basic Darlington Array based touch switch. This switch was operated by touching two metal contacts at the same time, thus turning on a light or other load. This project was a great intro to the basics of electronics as it taught me the workings of a very important circuit in electronics all with simple physical components.
@@ -71,3 +76,4 @@ With those parts finished I mounted the gantry rods to the frame with basic angl
 
 I then needed some kind of tapped bushing part that would thread onto the vertical rods and slide on the gantry to keep it aligned. I pondered a few ideas then decided I would use machined plastic as the specialized part I needed. Due to my lack of a place to buy plastic without a 3 hour drive I decided to improvise and use a cutting board as my source of high density polyethylene. I chopped the cutting board with a band saw into 1” x 2” pieces to use as the bushings. Then I measured the distance between the two vertical rods of the Z-axis and carefully drilled 2 holes in the bushings so they would glide smoothly and tapped one of the holes to accompany the threaded rods. 
 ![image](https://user-images.githubusercontent.com/52514038/71786182-9e564600-2fbd-11ea-9489-0d157ab35b48.jpg)
+
