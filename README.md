@@ -5,6 +5,7 @@ This page is dedicated to sharing the various electronics projects i have design
 Contact Me:
 
 Email- jriehl728@gmail.com
+
 Phone- 1 (250) 230-7938
 
 ## My First Circuitry - Darlington Touch Switch
