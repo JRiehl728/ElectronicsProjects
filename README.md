@@ -1,4 +1,4 @@
-# Electronics Projects Portfolio
+
 
 This page is dedicated to sharing the various electronics projects i have designed and built over my years of experimenting.
 
